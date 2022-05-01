@@ -7,6 +7,7 @@
 
 <script lang="ts">
 import HeaderBar from '@/groceryList/components/header-bar.vue';
+
 export default {
   components: {HeaderBar}
 }
